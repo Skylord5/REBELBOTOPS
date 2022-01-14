@@ -42,7 +42,7 @@ REBELBOT made by [![REBEL OP](https://img.shields.io/badge/Telegram-REBEL%20OP-i
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/TEAMREBELS/REBELBOT
+git clone https://github.com/atishay009/REBELBOT
 cd REBELBOT
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
