@@ -26,7 +26,7 @@ REBELBOT made by [![REBEL OP](https://img.shields.io/badge/Telegram-REBEL%20OP-i
 
 <h4>🔷 DEPLOY TO HEROKU 🔷</h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TEAMREBELS/REBELBOTOPS)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/@Atishay_009/REBELBOTOPS)
 
 
 <h2 align="center"> <a href="https://github.com/REBEL75/REBELUSER">⚡ REBEL USERBOT ⚡</a></h2>
@@ -42,7 +42,7 @@ REBELBOT made by [![REBEL OP](https://img.shields.io/badge/Telegram-REBEL%20OP-i
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/atishay009/REBELBOT
+git clone https://github.com/@atishay009/REBELBOT
 cd REBELBOT
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
